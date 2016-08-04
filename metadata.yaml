@@ -1,0 +1,34 @@
+_repo: A-Rogue-s-Life_1588
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: The critical reader may possibly notice a tone of almost boisterous gayety
+  in certain parts of these imaginary Confessions. I can only plead, in defense, that
+  the story offers the faithful reflection of a very happy time in my past life. It
+  was written at Paris, when I had Charles Dickens for a near neighbor and a daily
+  companion, and when my leisure hours were joyously passed with many other friends,
+  all associated with literature and art, of whom the admirable comedian, Regnier,
+  is now the only survivor. The revising of these pages has been to me a melancholy
+  task. I can only hop.
+gutenberg_issued: '2006-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Rogues and vagabonds -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: A Rogue's Life
+url: http://www.gutenberg.org/ebooks/1588
