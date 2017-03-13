@@ -1,5 +1,8 @@
 _repo: A-Rogue-s-Life_1588
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -17,6 +20,8 @@ description: The critical reader may possibly notice a tone of almost boisterous
   all associated with literature and art, of whom the admirable comedian, Regnier,
   is now the only survivor. The revising of these pages has been to me a melancholy
   task. I can only hop.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1588#A-Rogue-s-Life
 gutenberg_issued: '2006-02-22'
 gutenberg_type: Text
 identifiers:
